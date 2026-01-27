@@ -57,4 +57,4 @@ jobs:
           app-name: 'duncan-mytruck-portal-production'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3CE3313EEE484A548E51DAF173A4B90F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87A22FF629104C509EAC813E1B668CBB }}
